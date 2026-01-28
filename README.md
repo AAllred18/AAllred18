@@ -1,6 +1,6 @@
 Hi, I’m Andrew "AJ" Allred. Here are a few facts about me:
 - Hometown: Kealakeua, HI (Population: 2200)
-- Education: BYU Information Systems Junior
+- Education: BYU Information Systems Senior
 - Interests: Sports, Woodworking, Music
 - Fun Facts: I love woodworking with my dad (Specifically lathe and laser engraver projects)
 - Career Interests: Website Developer, Software Developer, Systems Analyst, CyberSecurity
